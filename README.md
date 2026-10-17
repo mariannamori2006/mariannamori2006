@@ -1,211 +1,77 @@
-<!--
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Marianna%20Mori&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20en%20formaci%C3%B3n&descAlignY=55" width="100%" alt="banner"/>
 
 # Bienvenido a mi GITHUB 👋
 
--->
-
-<!--
-
->>>>>>> a930d72024ebb667d8fc709e90084b585f0861da
-
-<!--**robertoBCV/robertoBCV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...<br>
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ....
-
-- ⚡ Fun fact: ...
-
--->
-
-
-
-<div id="header" align="center">
-
- <h1>Bienvenido a mi GITHUB 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hola,+soy+Marianna+%F0%9F%91%8B;Estudiante+de+desarrollo;Aprendiendo+cada+d%C3%ADa" alt="Typing SVG"/>
 
 </div>
 
+---
 
+## 🙋‍♀️ Sobre mí
 
-![banner](github-banner.png)
+Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tecnologías, crear proyectos y compartir lo que voy aprendiendo.
 
-<div id="header" align="center">
+- 🔭 Actualmente trabajando en: *(escribe aquí tu proyecto)*
+- 🌱 Aprendiendo: Python, JavaScript y desarrollo web
+- 📫 Contáctame por mis redes sociales
 
- <h2>Lenguajes de programación</h2>
+---
 
+<div align="center">
 
+## Lenguajes de programación
 
-<table align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
 
- <tr>
+<br/><br/>
 
-  <td align="center">
+<img src="https://i.imgur.com/REEMPLAZA.png" width="250" alt="Code mode on"/>
 
-   <a href="https://git-scm.com/">
+<br/><br/>
 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+<a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="TU_LINK_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="TU_LINK_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="TU_LINK_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+<a href="TU_LINK_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-   </a>
+## Editores de código
 
-  </td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" width="45" alt="Sublime Text"/>
 
-  <td align="center">
+## Mis estadísticas
 
-   <a href="https://www.oracle.com/java/">
+<img src="https://github-readme-stats.vercel.app/api?username=mariannamori2006&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub"/>
 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://kotlinlang.org/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://www.php.net/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://www.python.org/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-
-   </a>
-
-  </td>
-
-  <td align="center">
-
-   <a href="https://developer.apple.com/swift/">
-
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
-
-   </a>
-
-  </td>
-
- </tr>
-
-</table>
-
- 
-
- <!-- gifphy-->
-
- </p>
-
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannamori2006&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
 
 </div>
 
+---
 
+## 🚀 Proyectos destacados
 
+| Proyecto | Descripción |
+|----------|-------------|
+| [Nombre del proyecto 1](https://github.com/mariannamori2006/NOMBRE-REPO) | Breve descripción de lo que hace |
+| [Nombre del proyecto 2](https://github.com/mariannamori2006/NOMBRE-REPO) | Breve descripción de lo que hace |
 
+---
 
+<div align="center">
 
+⭐ Gracias por visitar mi perfil ⭐
 
-<!-- Redes Sociales-->
-
-<div id="header" align="center">
-
- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-
- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-
- <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
-
- <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
-
- <img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-
-</div>
-
-
-
-<div id="header" align="center">
-
- <h2>Editores de código</h2>
-
- <p align="center">
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
-
-  </a>
-
- </p>
-
-</div>
-
-
-
-<div id="header" align="center">
-
- <h2>Lenguajes de maketado
-
- <p align="center">
-
- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer">
-
- </a>
-
- </p>
-
-</div>
-
-   
-
-<div id="header" align="center">
-
- <h2>IoT<br></h2>
-
-  <p align="center">
-
-  <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
-
-  </a>
-
- </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
