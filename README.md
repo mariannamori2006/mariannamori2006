@@ -56,7 +56,7 @@ Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tec
 ## ⚙️ Frameworks
 
 <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot"/>
-<img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask"/>
+<img title="Flask" src="https://cdn.simpleicons.org/flask/white" width="50" alt="Flask"/>
 
 ## 📱 Móvil y electrónica
 
