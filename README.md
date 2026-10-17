@@ -14,8 +14,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mariannamori2006&label=Visitas&color=58A6FF&style=for-the-badge" alt="Visitas al perfil"/>
-
 </div>
 
 ---
@@ -24,10 +22,10 @@
 
 Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tecnologías, crear proyectos y compartir lo que voy aprendiendo.
 
-- 🔭 Actualmente trabajando en: *(escribe aquí tu proyecto)*
-- 🌱 Aprendiendo: Python, JavaScript y desarrollo web
-- 💡 He trabajado con Spring Boot, Flask, Kotlin y Arduino
-- 📫 Contáctame por mis redes sociales
+- Actualmente trabajando en: *Sistema gestor de cuestionario para profesores*
+- Aprendiendo: Python, JavaScript y desarrollo web
+- He trabajado con Spring Boot, Flask, Kotlin y Arduino
+- Contáctame a través de LinkedIn
 
 ---
 
@@ -74,17 +72,16 @@ Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tec
 
 <img title="Apache Tomcat" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50" alt="Tomcat"/>
 <img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" alt="Apache"/>
-<img title="XAMPP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg" width="50" alt="XAMPP"/>
+<img title="XAMPP" src="https://cdn.simpleicons.org/xampp/FB7A24" width="50" alt="XAMPP"/>
 <img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" alt="Postman"/>
 <img title="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="50" alt="Swagger"/>
 
 ## ✍️ Editores de código y herramientas
 
 <img title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/>
-<img title="Sublime Text" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" width="50" alt="Sublime Text"/>
 <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-<img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/>
-<img title="Git Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Git Bash"/>
+<img title="GitHub" src="https://cdn.simpleicons.org/github/white" width="50" alt="GitHub"/>
+<img title="Git Bash" src="https://cdn.simpleicons.org/gnubash/4EAA25" width="50" alt="Git Bash"/>
 <img title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="50" alt="Windows"/>
 
 ## 🎨 Diseño y gestión
