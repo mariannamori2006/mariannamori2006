@@ -14,9 +14,9 @@
 
 Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tecnologías, crear proyectos y compartir lo que voy aprendiendo.
 
-- 🔭 Actualmente trabajando en: *(escribe aquí tu proyecto)*
-- 🌱 Aprendiendo: Python, JavaScript y desarrollo web
-- 📫 Contáctame por mis redes sociales
+- Actualmente trabajando en: *(escribe aquí tu proyecto)*
+- Aprendiendo: Python, JavaScript y desarrollo web
+- Contáctame por mis redes sociales
 
 ---
 
@@ -24,30 +24,27 @@ Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tec
 
 ## Lenguajes de programación
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript"/>
 
 <br/><br/>
 
-<img src="https://i.imgur.com/REEMPLAZA.png" width="250" alt="Code mode on"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="250" alt="Code mode on"/>
 
 <br/><br/>
 
 <a href="TU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="TU_LINK_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="TU_LINK_X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="TU_LINK_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="TU_LINK_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 
-## Editores de código
+## Editores de código y herramientas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublimetext/sublimetext-original.svg" width="45" alt="Sublime Text"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
 
 ## Mis estadísticas
 
@@ -56,17 +53,6 @@ Soy estudiante de desarrollo de software en SENATI. Me gusta aprender nuevas tec
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariannamori2006&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
 
 </div>
-
----
-
-## 🚀 Proyectos destacados
-
-| Proyecto | Descripción |
-|----------|-------------|
-| [Nombre del proyecto 1](https://github.com/mariannamori2006/NOMBRE-REPO) | Breve descripción de lo que hace |
-| [Nombre del proyecto 2](https://github.com/mariannamori2006/NOMBRE-REPO) | Breve descripción de lo que hace |
-
----
 
 <div align="center">
 
